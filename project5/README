@@ -1,2 +1,1 @@
-The requirements of this project were the following:
-You will write a program that visualizes a 3D scene, as viewed from a movable camera, and use 2D Canvas drawing operations to construct a 2D projected view of it on your screen.
+A program that visualizes a 3D scene, as viewed from a movable camera, and uses 2D Canvas drawing operations to construct a 2D projected view of it on your screen.
